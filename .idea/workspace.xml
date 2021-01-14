@@ -10,7 +10,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86642205-f7b0-4800-84a6-4583d230b660" name="Default Changelist" comment="">
+    <list default="true" id="86642205-f7b0-4800-84a6-4583d230b660" name="Default Changelist" comment="Corrigiendo espacios">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/androidbody/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/androidbody/MainActivity.java" afterDir="false" />
     </list>
@@ -160,19 +160,32 @@
       <option name="project" value="LOCAL" />
       <updated>1610603110075</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="MAS ESPACIOS">
+      <created>1610604789038</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610604789038</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Agregando espacios" />
     <MESSAGE value="Segundo espacio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Segundo espacio" />
+    <MESSAGE value="MAS ESPACIOS" />
+    <MESSAGE value="Corrigiendo espacios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrigiendo espacios" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1610603108931">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1610605014725">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1610603108931" />
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1610605014725" />
+    <state x="80" y="55" key="DiffContextDialog" timestamp="1610605009134">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="80" y="55" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1610605009134" />
     <state width="1286" height="121" key="GridCell.Tab.0.bottom" timestamp="1610601184295">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -189,17 +202,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1286" height="121" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1610601184295" />
-    <state x="155" y="99" key="MultipleFileMergeDialog" timestamp="1610604342239">
+    <state x="155" y="99" key="MultipleFileMergeDialog" timestamp="1610605040384">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="155" y="99" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1610604342239" />
+    <state x="155" y="99" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1610605040384" />
     <state x="256" y="103" key="Vcs.Push.Dialog.v2" timestamp="1610603179131">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="256" y="103" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1610603179131" />
-    <state x="473" y="287" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610604352196">
+    <state x="473" y="287" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610605038212">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="473" y="287" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1610604352196" />
+    <state x="473" y="287" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1610605038212" />
   </component>
 </project>
