@@ -10,7 +10,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86642205-f7b0-4800-84a6-4583d230b660" name="Default Changelist" comment="Corrigiendo espacios">
+    <list default="true" id="86642205-f7b0-4800-84a6-4583d230b660" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/androidbody/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/androidbody/MainActivity.java" afterDir="false" />
     </list>
@@ -167,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610604789038</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Corrigiendo espacios">
+      <created>1610605053722</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610605053722</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -178,10 +185,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Corrigiendo espacios" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1610605014725">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1610605753707">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1610605014725" />
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1610605753707" />
     <state x="80" y="55" key="DiffContextDialog" timestamp="1610605009134">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -206,13 +213,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="155" y="99" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1610605040384" />
-    <state x="256" y="103" key="Vcs.Push.Dialog.v2" timestamp="1610603179131">
+    <state x="256" y="103" key="Vcs.Push.Dialog.v2" timestamp="1610605291132">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="256" y="103" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1610603179131" />
-    <state x="473" y="287" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610605038212">
+    <state x="256" y="103" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1610605291132" />
+    <state x="473" y="287" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610605544564">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="473" y="287" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1610605038212" />
+    <state x="473" y="287" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1610605544564" />
   </component>
 </project>

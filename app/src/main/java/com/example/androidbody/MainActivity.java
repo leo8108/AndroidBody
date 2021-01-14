@@ -32,11 +32,14 @@ public class MainActivity extends AppCompatActivity {
             ((EjemploFragmento) fragment3).setIndex(0);
             getSupportFragmentManager().beginTransaction().add(R.id.contenedor3, fragment3).commit();
 
+            //OTRO COMENTARIOOOOOOOOOO
             //espacio para github
             //otro espacio
             //tercer espacio
             //cuarto espacio
             //QUINTO
+            //espacio invasor
+            //otro espacio invasor
         }
     }
 }
