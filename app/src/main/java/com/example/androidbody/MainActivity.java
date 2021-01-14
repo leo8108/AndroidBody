@@ -31,6 +31,8 @@ public class MainActivity extends AppCompatActivity {
             ((EjemploFragmento) fragment3).setImagenes(images.getPiernas());
             ((EjemploFragmento) fragment3).setIndex(0);
             getSupportFragmentManager().beginTransaction().add(R.id.contenedor3, fragment3).commit();
+
+            //espacio para github
         }
     }
 }
