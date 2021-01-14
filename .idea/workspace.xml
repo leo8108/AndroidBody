@@ -43,6 +43,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="Leonardo &lt;leonardo.manzano@outlook.es&gt;" />
         <option value="MauricioCerv10 &lt;mauriciocervantesdelgadillo10@gmail.com&gt;" />
         <option value="Leonardo" />
       </list>
@@ -152,18 +153,26 @@
       <option name="project" value="LOCAL" />
       <updated>1610602398584</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Segundo espacio">
+      <created>1610603110075</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610603110075</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Agregando espacios" />
-    <option name="LAST_COMMIT_MESSAGE" value="Agregando espacios" />
+    <MESSAGE value="Segundo espacio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Segundo espacio" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1610602396911">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1610603108931">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1610602396911" />
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1610603108931" />
     <state width="1286" height="121" key="GridCell.Tab.0.bottom" timestamp="1610601184295">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -180,13 +189,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1286" height="121" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1610601184295" />
-    <state x="256" y="103" key="Vcs.Push.Dialog.v2" timestamp="1610602863252">
+    <state x="155" y="99" key="MultipleFileMergeDialog" timestamp="1610604342239">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="256" y="103" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1610602863252" />
-    <state x="473" y="287" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610601733904">
+    <state x="155" y="99" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1610604342239" />
+    <state x="256" y="103" key="Vcs.Push.Dialog.v2" timestamp="1610603179131">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="473" y="287" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1610601733904" />
+    <state x="256" y="103" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1610603179131" />
+    <state x="473" y="287" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610604352196">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="473" y="287" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1610604352196" />
   </component>
 </project>
